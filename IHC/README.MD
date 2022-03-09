@@ -5,8 +5,11 @@
 <h3>Site Samsung Brasil</h3>
 <p> Este site da Samsung Brasil possui um assistente virtual em libras para facilitar o acesso de pessoas com deficiencia auditiva ao site. Sendo encontrado na área de acessibilidade do site ou até mesmo no canto superior direito da tela</p>
 <p align="center">
-<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AssistenteLibrasSamsung.PNG" alt="Figura humana fazendo gestos em libras para ajudar a navegar no site" title="Assistente Virtual"/>
+<p>Assistente Virtual</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AssistenteLibrasSamsung.PNG" alt="Figura humana fazendo gestos em libras para ajudar a navegar no site"/ >
+<p>Botão de acessibilidade no rodapé </p>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AreaAcessibilidadeSamsung.png" alt="Botão de acessibilidade no rodapé do site"/>
+<p>Botão da assistente virtual</p>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AcessoLibras.png?raw=true" alt="Botão azul no canto superior dirteito da tela"/>
 </p>
 <hr>
