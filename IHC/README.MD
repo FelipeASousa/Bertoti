@@ -18,9 +18,22 @@
 <hr>
 
 
-<h2>1.1 Text Alternatives</h2>
-<h3>  </h3>
-<p></p>
+<h2>1.2 - Time-Based Media</h2>
+<h3> Youtube</h3>
+<p> O site/app do Youtube possui um botão que pode ser acionado e criar legendas automáticas em diversos idiomas</p>
+<p align="center">
+<img src="https://www.alphr.com/wp-content/uploads/2019/08/108.8.png"/>
+</p>
+<hr>
+<h3></h3>
+<p> </p>
+<hr>
+
+
+<!--
+<h2></h2>
+<h3> </h3>
+<p> </p>
 <p align="center">
 <img src=""/>
 </p>
@@ -28,4 +41,4 @@
 <h3></h3>
 <p> </p>
 <hr>
-
+->
