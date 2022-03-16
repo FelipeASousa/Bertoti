@@ -20,13 +20,13 @@
 
 <h2>1.2 - Time-Based Media</h2>
 <h3> Youtube</h3>
-<p> O site/app do Youtube possui um botão que pode ser acionado e criar legendas automáticas em diversos idiomas</p>
+<p> O site/app do Youtube possui um botão que pode ser acionado e criar legendas automáticas em diversos idiomas nos vídeos de sua plataforma</p>
 <p align="center">
 <img src="https://i.insider.com/5d7fa7bb2e22af191c36d996"/>
 </p>
 <hr>
-<h3></h3>
-<p> </p>
+<h3>Twitch</h3>
+<p> Twitce é um serviço de streaming de vídeo ao vivo e devido a esse molde, não possui geração de legenda em seus conteúdo, limitando seus usuários.</p>
 <hr>
 
 
