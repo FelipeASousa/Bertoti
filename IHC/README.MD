@@ -2,7 +2,10 @@
 <hr>
 
 <h2>1.1 Text Alternatives</h2>
+<p>Fornecer alternativas de texto para qualquer conteúdo não textual para que possa ser alterado para outras formas que as pessoas precisem, tais como letras grandes, braille, fala, símbolos ou linguagem mais simples.</p>
+<hr>
 <h3>Site Samsung Brasil</h3>
+
 <p> Este site da Samsung Brasil possui um assistente virtual em libras para facilitar o acesso de pessoas com deficiencia auditiva ao site. Sendo encontrado na área de acessibilidade do site ou até mesmo no canto superior direito da tela</p>
 <p align="center">
 <p>Assistente Virtual</p>
@@ -19,6 +22,8 @@
 
 <h1>Principle 1 – Perceivable</h1>
 <h2>1.2 - Time-Based Media</h2>
+<p>Fornecer alternativas para os meios de comunicação.</p>
+<hr>
 <h3> Youtube</h3>
 <p> O site/app do Youtube possui um botão que pode ser acionado e criar legendas automáticas em diversos idiomas nos vídeos de sua plataforma</p>
 <p align="center">
@@ -29,6 +34,7 @@
 <p> Twitce é um serviço de streaming de vídeo ao vivo e devido a esse molde, não possui geração de legenda em seus conteúdo, limitando seus usuários.</p>
 <hr>
 <h2>1.3 – Adaptable</h2>
+
 <h2>1.4 – Distinguishable</h2>
 <h1>Principle 2 – Operable</h1>
 <h2>2.1 – Keyboard Accessible</h2>
