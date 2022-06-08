@@ -56,6 +56,10 @@
 <h1>Principle 2 – Operable</h1>
 <h2>2.1 – Keyboard Accessible</h2>
 <p>Tornar todas as funcionalidades disponíveis a partir de um teclado.</p>
+<p>O Microsoft Word é um software que permite utilizar suas funções através de comandos dos teclado, facilitando a experiência do usuário</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/WordNavegacaoTeclado.jpeg" alt="Exemplo Bom: Microsoft Word"/>
+<p>O site da Americanas não possui as funções de navegação por teclado</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AmericanasNavegacao.PNG" alt="Exemplo Ruim: Site da Americanas"/>
 <hr>
 <h2>2.2 – Enough Time</h2>
 <p>Proporcionar aos utilizadores tempo suficiente para ler e utilizar o conteúdo.</p>
