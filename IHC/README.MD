@@ -1,6 +1,6 @@
 <h1>Avaliação Heurística</h1>
 <hr>
-
+<h1>Principle 1 – Perceivable</h1>
 <h2>1.1 Text Alternatives</h2>
 <p>Fornecer alternativas de texto para qualquer conteúdo não textual para que possa ser alterado para outras formas que as pessoas precisem, tais como letras grandes, braille, fala, símbolos ou linguagem mais simples.</p>
 <hr>
@@ -19,8 +19,6 @@
 <h3>Site PayPal</h3>
 <p> O site oficial do Paypal no Brasil, não possui nenhum assistente virtual para ajudar qualquer tipo de deficiência que prejudique a experiência com o site.</p>
 <hr>
-
-<h1>Principle 1 – Perceivable</h1>
 <h2>1.2 - Time-Based Media</h2>
 <p>Fornecer alternativas para os meios de comunicação.</p>
 <hr>
