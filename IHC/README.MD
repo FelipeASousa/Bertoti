@@ -74,6 +74,8 @@
 <hr>
 <h2>2.4 – Navigable</h2>
 <p>Fornecer formas de ajudar os utilizadores a navegar, encontrar conteúdos, e determinar onde se encontram.</p>
+<p></p>
+<img src=""/>
 <hr>
 <h2>2.5 – Input Modalities</h2>
 <p>Tornar mais fácil para os utilizadores a funcionalidade através de várias entradas para além do teclado.</p>
