@@ -69,6 +69,10 @@
 <hr>
 <h2>2.3 – Seizures and Physical Reactions</h2>
 <p>Não conceber o conteúdo de uma forma que se saiba causar convulsões ou reacções físicas.</p>
+<p>A plataforma de Streaming Netflix não utiliza de cores e imagens de uma forma que podem causar alguma reações física ao seu usuário.</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/StrangerThings.PNG"/>
+<p>Em 2018, o Filme Os Incríveis 2 teve que rotular nos cinemas que suas cenas poderiam causar ataques epiléticos.</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/Incriveis2.PNG"/>
 <hr>
 <h2>2.4 – Navigable</h2>
 <p>Fornecer formas de ajudar os utilizadores a navegar, encontrar conteúdos, e determinar onde se encontram.</p>
