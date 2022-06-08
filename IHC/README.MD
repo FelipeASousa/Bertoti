@@ -47,6 +47,10 @@
 <hr>
 <h2>1.4 – Distinguishable</h2>
 <p>Tornar mais fácil para os utilizadores ver e ouvir conteúdos, incluindo a separação do primeiro plano do segundo plano.</p>
+<p>A Twitch por possuir cores com muito contraste, torna fácil a visualização de seus conteúdos. </p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/TwitchDistincao.PNG" alt="Exemplo Bom: Twitch">
+<p>Diferentemente, o site Guia Mais, não possui cores muito vibrantes e ainda possui problemas com sobreposição de seus conteúdos sobre alguns anúncios</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/GuiaMaisDistinguivelRuim.PNG" alt="Exemplo Ruim: Site Guia Mais">
 
 <hr>
 <h1>Principle 2 – Operable</h1>
