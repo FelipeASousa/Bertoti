@@ -63,6 +63,9 @@
 <hr>
 <h2>2.2 – Enough Time</h2>
 <p>Proporcionar aos utilizadores tempo suficiente para ler e utilizar o conteúdo.</p>
+<p>O youtube possui um recurso que permite habilitar a função de questionar a inatividade do usuário.</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/YoutubeEnoughTime.PNG"/>
+<p>Em outro caso a plataforma de serviço Streaming que não possui tal recurso</p>
 <hr>
 <h2>2.3 – Seizures and Physical Reactions</h2>
 <p>Não conceber o conteúdo de uma forma que se saiba causar convulsões ou reacções físicas.</p>
