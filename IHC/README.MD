@@ -40,9 +40,14 @@
 <p>O site/app do Youtube possui um layout responsivo para atender tanto dispositivos mobilie quanto desktops</p>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/YoutubeLayoutDesktop.jpeg" alt="Youtube Desktop"/>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/YoutubeLayoutMobile.jpeg" alt="Youtube Mobile" width="200"/>
+<p></p>
+<p>Em contraponto, o SIGA, site institucional, não possui a mesma funcionalidade, criando uma experiência desagradável ao usuário</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/SigaDesktop.PNG" alt="Siga Desktop"/>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/SigaMobile.PNG" alt="Siga Mobile"/>
 <hr>
 <h2>1.4 – Distinguishable</h2>
 <p>Tornar mais fácil para os utilizadores ver e ouvir conteúdos, incluindo a separação do primeiro plano do segundo plano.</p>
+
 <hr>
 <h1>Principle 2 – Operable</h1>
 <h2>2.1 – Keyboard Accessible</h2>
