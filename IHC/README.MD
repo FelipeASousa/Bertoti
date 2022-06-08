@@ -37,7 +37,7 @@
 
 <h2>1.3 – Adaptable</h2>
 <p>Criar conteúdos que podem ser apresentados de diferentes formas (por exemplo, layout mais simples) sem perder informação ou estrutura.</p>
-<h3>O site/app do Youtube possui um layout responsivo para atender tanto dispositivos mobilie quanto desktops</h3>
+<p>O site/app do Youtube possui um layout responsivo para atender tanto dispositivos mobilie quanto desktops</p>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/YoutubeLayoutDesktop.jpeg" alt="Youtube Desktop"/>
 <img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/YoutubeLayoutMobile.jpeg" alt="Youtube Mobile" width="200"/>
 <hr>
