@@ -74,11 +74,13 @@
 <hr>
 <h2>2.4 – Navigable</h2>
 <p>Fornecer formas de ajudar os utilizadores a navegar, encontrar conteúdos, e determinar onde se encontram.</p>
-<p></p>
-<img src=""/>
+<p>O serviço de streaming Netflix, em uma de suas páginas iniciais, descreve o serviço que oferece.</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/NetflixNavigable.png"/>
 <hr>
 <h2>2.5 – Input Modalities</h2>
 <p>Tornar mais fácil para os utilizadores a funcionalidade através de várias entradas para além do teclado.</p>
+<p>O serviço de streaming do Telecine, permite que o usuário apenas navegue pelo seu cursor, pois também utiliza de menus e categorização de conteúdos para tornado de fácil acesso</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/Telecine-%20Input%20Modalities.png"/>
 <hr>
 <h1>Principle 3 – Understandable</h1>
 <h2>3.1 – Readable</h2>
