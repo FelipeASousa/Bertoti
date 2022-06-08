@@ -83,17 +83,26 @@
 <h1>Principle 3 – Understandable</h1>
 <h2>3.1 – Readable</h2>
 <p>Tornar o conteúdo do texto legível e compreensível.</p>
+<p>O google tradutor é uma ferramenta que faz com que qualquer texto possar ser traduzido dentro do seu ambiente, para diversos idiomas, tornando compreensível ao entendimento do usário</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/Translate-Readable.PNG"/>
 <hr>
 <h2>3.2 – Predictable</h2>
 <p>Fazer aparecer páginas Web e operar de formas previsíveis.</p>
+<p>Durante o API foi utilizado um que auxiliasse na forma em que o usuário acessaria os serviços, de forma que a página só alterasse sua forma, caso ele acessasse o serviço que procurava,por exemplo: Contas de água</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/MenuAPI-Predictable.gif"/>
 <hr>
 <h2>3.3 – Input Assistance</h2>
-<p>Ajudar os utilizadores a evitar e corrigir erros.</p>
+<p>A barra de pesquisa do Google auxilia o seu usuário na correção de palavras ou termo na hora de o utilizar</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/Google-InputAssistence.png"/>
 <hr>
 <h1>Principle 4 – Robust</h1>
 <h2>4.1 – Compatible</h2>
-<p>Maximizar a compatibilidade com os agentes utilizadores actuais e futuros, incluindo as tecnologias de assistência.
+<p>Maximizar a compatibilidade com os agentes utilizadores actuais e futuros, incluindo as tecnologias de assistência.</p>
+<p>Ajudar os utilizadores a evitar e corrigir erros.</p>
+<p>No conteúdo implementado utilizando linguagens de marcação, os elementos têm etiquetas completas de início e fim, os elementos são aninhados de acordo com as suas especificações, os elementos não contêm atributos duplicados, e quaisquer identificações são únicas, excepto quando as especificações permitem estas características.
 </p>
+<p>Identificação de fechamento de Tag</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/HTML-Compatible.png"/>
 <hr>
 
 <!--
