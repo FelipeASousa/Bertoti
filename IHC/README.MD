@@ -33,23 +33,46 @@
 <h3>Twitch</h3>
 <p> Twitce é um serviço de streaming de vídeo ao vivo e devido a esse molde, não possui geração de legenda em seus conteúdo, limitando seus usuários.</p>
 <hr>
-<h2>1.3 – Adaptable</h2>
 
+
+<h2>1.3 – Adaptable</h2>
+<p>Criar conteúdos que podem ser apresentados de diferentes formas (por exemplo, layout mais simples) sem perder informação ou estrutura.</p>
+
+<hr>
 <h2>1.4 – Distinguishable</h2>
+<p>Tornar mais fácil para os utilizadores ver e ouvir conteúdos, incluindo a separação do primeiro plano do segundo plano.</p>
+<hr>
 <h1>Principle 2 – Operable</h1>
 <h2>2.1 – Keyboard Accessible</h2>
+<p>Tornar todas as funcionalidades disponíveis a partir de um teclado.</p>
+<hr>
 <h2>2.2 – Enough Time</h2>
+<p>Proporcionar aos utilizadores tempo suficiente para ler e utilizar o conteúdo.</p>
+<hr>
 <h2>2.3 – Seizures and Physical Reactions</h2>
+<p>Não conceber o conteúdo de uma forma que se saiba causar convulsões ou reacções físicas.</p>
+<hr>
 <h2>2.4 – Navigable</h2>
+<p>Fornecer formas de ajudar os utilizadores a navegar, encontrar conteúdos, e determinar onde se encontram.</p>
+<hr>
 <h2>2.5 – Input Modalities</h2>
+<p>Tornar mais fácil para os utilizadores a funcionalidade através de várias entradas para além do teclado.</p>
+<hr>
 <h1>Principle 3 – Understandable</h1>
 <h2>3.1 – Readable</h2>
+<p>Tornar o conteúdo do texto legível e compreensível.</p>
+<hr>
 <h2>3.2 – Predictable</h2>
+<p>Fazer aparecer páginas Web e operar de formas previsíveis.</p>
+<hr>
 <h2>3.3 – Input Assistance</h2>
+<p>Ajudar os utilizadores a evitar e corrigir erros.</p>
+<hr>
 <h1>Principle 4 – Robust</h1>
 <h2>4.1 – Compatible</h2>
-
-
+<p>Maximizar a compatibilidade com os agentes utilizadores actuais e futuros, incluindo as tecnologias de assistência.
+</p>
+<hr>
 
 <!--
 <h2></h2>
