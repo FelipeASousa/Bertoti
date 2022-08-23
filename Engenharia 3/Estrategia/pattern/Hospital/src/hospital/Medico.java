@@ -5,16 +5,10 @@
  */
 package hospital;
 
-/**
- *
- * @author Fatec
- */
-public class Paciente {
-
+public class Medico {
     public Pessoa informacoesPessoais;
-    private String sintomas[];
-
-    public void marcarConsulta() {
-
-    }
+    public Funcionario func;
+    public String crm;
+    public String especialidade;
+    public String areaAtuacao;
 }

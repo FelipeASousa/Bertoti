@@ -1,15 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package hospital;
 
-/**
- *
- * @author Fatec
- */
 public class Funcionario {
-    public double salario;
-    public String horario;
+    private double salario;
+    private String hora_entrada;
+    private String hora_saida;
+
 }
