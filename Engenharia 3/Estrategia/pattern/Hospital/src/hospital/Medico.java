@@ -11,4 +11,6 @@ public class Medico {
     public String crm;
     public String especialidade;
     public String areaAtuacao;
+
+    
 }
