@@ -1,0 +1,24 @@
+Bertoti atividade
+	Strategy
+		* Pattern		CONCLUÍDO
+		* Antipattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
+	Observer:
+		* Pattern		CONCLUÍDO
+		* Antipattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
+	Singleton:
+		* Pattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
+	Composite:
+		* Pattern		CONCLUÍDO
+		* Antipattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
+	Facade:
+		* Pattern		CONCLUÍDO
+		* Antipattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
+	MVC:
+		* Pattern		CONCLUÍDO
+		* Antipattern		CONCLUÍDO
+		* Diagrama		CONCLUÍDO
